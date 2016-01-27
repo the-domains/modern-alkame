@@ -1,28 +1,31 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2016-01-27T16:41:30.773Z'
-dateModified: '2016-01-27T16:41:12.757Z'
-title: The benefits of Nootropics
+description: NEUROSCIENCE BASED NOOTROPIC PERSONALIZATION
+datePublished: '2016-01-27T16:47:12.727Z'
+dateModified: '2016-01-27T16:47:11.558Z'
+title: THE MODERN ALKAME NOOTROPIC ASSESSMENT
 author: []
+sourcePath: _posts/2016-01-27-the-benefits-of-nootropics.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-27-the-benefits-of-nootropics.md
-published: true
-url: the-benefits-of-nootropics/index.html
-_type: Article
+_type: Blurb
 
 ---
-# The benefits of Nootropics
+# THE MODERN ALKAME NOOTROPIC ASSESSMENT
 
-Why should people take them?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/96d4e960-41c2-4241-8268-279183f974f3.jpg)
+## 1000+ NOOTROPICS. DISCOVER YOURS.
+
+### With so many products out there claiming to optimize your health and mental function, it can be difficult to determine which ones will actually be effective and suit your individual needs. At Modern AlkaMe, we eliminate the guesswork, saving you time, money and confusion.
+
+### The Nootropic Assessment is a great place to start. This 15-minute questionnaire helps the team at Modern AlkaMe get a clear sense of both your unique brain chemistry and your individual goals. Based on your responses, we then design a personalized, one-of-a-kind Nootropic blend that is tailored to your specific needs.
