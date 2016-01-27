@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: NEUROSCIENCE BASED NOOTROPIC PERSONALIZATION
-datePublished: '2016-01-27T16:47:12.763Z'
-dateModified: '2016-01-27T16:47:11.558Z'
+datePublished: '2016-01-27T16:57:32.280Z'
+dateModified: '2016-01-27T16:50:38.650Z'
 title: THE MODERN ALKAME NOOTROPIC ASSESSMENT
 author: []
 sourcePath: _posts/2016-01-27-the-benefits-of-nootropics.md
