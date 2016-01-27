@@ -1,0 +1,28 @@
+name: Modern AlkaMe
+favicon: null
+layout_spectrum: 0.15368034201674163
+typography_spectrum: 0.2534046589862555
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.47057243157178164
+  lightness: 0.7194516598246992
+  saturation: 0.3970327456481755
+  rhythmicContrast: 0.918413879815489
+purpose: []
