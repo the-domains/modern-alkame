@@ -1,7 +1,7 @@
 name: Modern AlkaMe
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.2534046589862555
+typography_spectrum: 0.55848
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#547AB1'
     - '#CEAFC0'
   brandStrength: 0.47057243157178164
-  lightness: 0.7194516598246992
-  saturation: 0.3970327456481755
-  rhythmicContrast: 0.918413879815489
+  lightness: 0.1875
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
