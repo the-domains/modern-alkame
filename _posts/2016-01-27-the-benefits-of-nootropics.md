@@ -7,7 +7,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: NEUROSCIENCE BASED NOOTROPIC PERSONALIZATION
-datePublished: '2016-01-27T16:47:12.727Z'
+datePublished: '2016-01-27T16:47:12.763Z'
 dateModified: '2016-01-27T16:47:11.558Z'
 title: THE MODERN ALKAME NOOTROPIC ASSESSMENT
 author: []
