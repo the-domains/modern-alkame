@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: Modern AlkaMe
 opengraph:
   image: null
   type: null
@@ -20,21 +18,23 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.7105263
+  saturation: 0.5021482
   brandStrength: 0.490333
-  lightness: 0.8630504
+  lightness: 0.5526316
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  rhythmicContrast: 0.1627282
+  rhythmicContrast: 0.5
 typography_spectrum: 0.4076262
+layout_spectrum: 1
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 1
-favicon: null
-name: Modern AlkaMe
+analytics:
+  twitter: null
+  google: null
+  facebook: null
