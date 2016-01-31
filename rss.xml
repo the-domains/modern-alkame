@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Modern AlkaMe]]></title>
         <description><![CDATA[Modern AlkaMe]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/modern-alkame/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 16:54:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 31 Jan 2016 23:37:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/modern-alkame/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Testing the site again to see if it will even work]]></title>
+            <description><![CDATA[<h1>Testing the site again to see if it will even work</h1>]]></description>
+            <link>https://thegrid.ai/modern-alkame/testing-the-site-again-to-see-if-it-will-even-work/index.html</link>
+            <guid isPermaLink="false">f0b39d57-b428-4eda-8750-51bfbe28b732</guid>
+            <pubDate>Sun, 31 Jan 2016 23:36:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[OUR SERVICE]]></title>
             <description><![CDATA[<article><h1>OUR SERVICE</h1><h2>Each of our services uses scientific data and research to provide users with personalized, effective, high quality Nootropic blends</h2><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ebd18af910f8130be49766ce16176fd2d6130f2d.jpg"></article>]]></description>
-            <link>undefinedour-service/index.html</link>
+            <link>https://thegrid.ai/modern-alkame/our-service/index.html</link>
             <guid isPermaLink="false">10e910a0-0121-4833-a7b7-b1aea8a221db</guid>
             <pubDate>Wed, 27 Jan 2016 16:54:26 GMT</pubDate>
         </item>
