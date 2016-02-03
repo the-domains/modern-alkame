@@ -4,7 +4,7 @@
         <description><![CDATA[Modern AlkaMe]]></description>
         <link>https://thegrid.ai/modern-alkame/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 12:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 12:26:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/modern-alkame/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Periodic Table of Nootropics]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/modern-alkame/hand-crafted-blends/index.html</link>
             <guid isPermaLink="false">99afa508-b9aa-46a1-b010-aef2c4e2ed04</guid>
             <pubDate>Wed, 03 Feb 2016 12:24:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NEUROSCIENCE BASED NOOTROPIC PERSONALIZATION]]></title>
-            <description><![CDATA[<article><h1>NEUROSCIENCE BASED NOOTROPIC PERSONALIZATION</h1><h2>Periodic Table of Nootropics</h2><p>Nootropics</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c28c8f33c269c9fd98b780e0d151c7a0ac15474a.png"></article>]]></description>
-            <link>https://thegrid.ai/modern-alkame/neuroscience-based-nootropic-personalization/index.html</link>
-            <guid isPermaLink="false">d1c0b74d-8cd7-4153-8da0-f3406299238e</guid>
-            <pubDate>Wed, 03 Feb 2016 12:17:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
