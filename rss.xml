@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Modern AlkaMe]]></title>
         <description><![CDATA[Modern AlkaMe]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/modern-alkame/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 12:17:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 12:22:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/modern-alkame/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hand-Crafted Blends]]></title>
+            <description><![CDATA[<article><h1>Hand-Crafted Blends</h1><h2></h2><p>Discover unique blends created by our team of Neuroscientists. These blends are designed to meet your needs, whether you're looking to take something for school, work or just for general well-being.</p></article>]]></description>
+            <link>https://thegrid.ai/modern-alkame/hand-crafted-blends/index.html</link>
+            <guid isPermaLink="false">99afa508-b9aa-46a1-b010-aef2c4e2ed04</guid>
+            <pubDate>Wed, 03 Feb 2016 12:22:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NEUROSCIENCE BASED NOOTROPIC PERSONALIZATION]]></title>
-            <description><![CDATA[<article><h1>NEUROSCIENCE BASED NOOTROPIC PERSONALIZATION</h1><h2>Periodic Table of Nootropics</h2><p>Nootropics</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1cdb2f6407db87a5b0ada2c3181b6bd451feb845.png"></article>]]></description>
-            <link>undefinedneuroscience-based-nootropic-personalization/index.html</link>
+            <description><![CDATA[<article><h1>NEUROSCIENCE BASED NOOTROPIC PERSONALIZATION</h1><h2>Periodic Table of Nootropics</h2><p>Nootropics</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c28c8f33c269c9fd98b780e0d151c7a0ac15474a.png"></article>]]></description>
+            <link>https://thegrid.ai/modern-alkame/neuroscience-based-nootropic-personalization/index.html</link>
             <guid isPermaLink="false">d1c0b74d-8cd7-4153-8da0-f3406299238e</guid>
             <pubDate>Wed, 03 Feb 2016 12:17:21 GMT</pubDate>
         </item>
