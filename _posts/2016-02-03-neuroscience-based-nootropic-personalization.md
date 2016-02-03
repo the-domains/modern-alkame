@@ -2,13 +2,14 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-03T12:28:11.562Z'
-dateModified: '2016-02-03T12:28:08.654Z'
-title: 'NEUROSCIENCE BASED NOOTROPIC PERSONALIZATION '
+datePublished: '2016-02-03T12:44:19.596Z'
+dateModified: '2016-02-03T12:44:16.946Z'
+title: NEUROSCIENCE BASED NOOTROPIC PERSONALIZATION
 author: []
 sourcePath: _posts/2016-02-03-neuroscience-based-nootropic-personalization.md
 published: true
@@ -21,7 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a87a373b-7307-407c-82a7-69e6192945f0.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd49b07b0a33be214c92f4d388639a517a26056f.png)
 
 # NEUROSCIENCE BASED NOOTROPIC PERSONALIZATION
 
