@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: ''
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-03T12:25:37.733Z'
-dateModified: '2016-02-03T12:25:36.202Z'
+datePublished: '2016-02-03T12:26:13.204Z'
+dateModified: '2016-02-03T12:26:10.092Z'
 title: NEUROSCIENCE BASED NOOTROPIC PERSONALIZATION
 author: []
 sourcePath: _posts/2016-02-03-neuroscience-based-nootropic-personalization.md
