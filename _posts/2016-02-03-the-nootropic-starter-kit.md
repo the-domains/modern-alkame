@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-03T12:22:29.580Z'
-dateModified: '2016-02-03T12:22:26.117Z'
+datePublished: '2016-02-03T12:46:09.294Z'
+dateModified: '2016-02-03T12:25:11.461Z'
 title: The Nootropic Starter Kit
 author: []
 sourcePath: _posts/2016-02-03-the-nootropic-starter-kit.md
