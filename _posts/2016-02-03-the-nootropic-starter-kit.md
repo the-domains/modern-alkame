@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-03T12:22:03.145Z'
-dateModified: '2016-02-03T12:21:48.810Z'
+datePublished: '2016-02-03T12:22:29.580Z'
+dateModified: '2016-02-03T12:22:26.117Z'
+title: The Nootropic Starter Kit
+author: []
+sourcePath: _posts/2016-02-03-the-nootropic-starter-kit.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: 'The Nootropic Starter Kit '
-author: []
-sourcePath: _posts/2016-02-03-the-nootropic-starter-kit.md
-published: true
 url: the-nootropic-starter-kit/index.html
 _type: Article
 
