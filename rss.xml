@@ -4,7 +4,7 @@
         <description><![CDATA[Modern AlkaMe]]></description>
         <link>https://thegrid.ai/modern-alkame/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 05:08:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Feb 2016 05:11:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/modern-alkame/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Athlete Blend]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/modern-alkame/the-nootropic-starter-kit/index.html</link>
             <guid isPermaLink="false">cc926ef2-ab71-4186-bab8-10bb7a0a2439</guid>
             <pubDate>Wed, 03 Feb 2016 12:46:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hand-Crafted Blends]]></title>
-            <description><![CDATA[<article><h1>Hand-Crafted Blends</h1><p>Discover unique blends created by our team of Neuroscientists. These blends are designed to meet your needs, whether you're looking to take something for school, work or just for general well-being.</p></article>]]></description>
-            <link>https://thegrid.ai/modern-alkame/hand-crafted-blends/index.html</link>
-            <guid isPermaLink="false">99afa508-b9aa-46a1-b010-aef2c4e2ed04</guid>
-            <pubDate>Wed, 03 Feb 2016 12:24:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
