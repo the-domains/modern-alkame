@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-03T12:24:24.700Z'
-dateModified: '2016-02-03T12:22:15.767Z'
+datePublished: '2016-02-04T05:08:07.848Z'
+dateModified: '2016-02-04T05:06:34.150Z'
 title: Hand-Crafted Blends
 author: []
 sourcePath: _posts/2016-02-03-hand-crafted-blends.md
