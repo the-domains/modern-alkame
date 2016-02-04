@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: Handcrafted Nootropic Blends
-datePublished: '2016-02-04T05:06:57.844Z'
-dateModified: '2016-02-04T05:06:54.675Z'
+datePublished: '2016-02-04T05:07:54.781Z'
+dateModified: '2016-02-04T05:07:48.447Z'
 title: Athlete Blend
 author: []
 sourcePath: _posts/2016-02-03-athlete-blend.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: athlete-blend/index.html
-_type: Blurb
+_type: Article
 
 ---
 ****
