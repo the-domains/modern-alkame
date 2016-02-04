@@ -1,28 +1,29 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-03T15:35:09.930Z'
-dateModified: '2016-02-03T15:34:56.869Z'
+description: Handcrafted Nootropic Blends
+datePublished: '2016-02-04T05:03:21.349Z'
+dateModified: '2016-02-04T05:03:14.576Z'
+title: 'Athlete Blend '
+author: []
+sourcePath: _posts/2016-02-03-athlete-blend.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: Athlete Blend
-author: []
-sourcePath: _posts/2016-02-03-athlete-blend.md
-published: true
 url: athlete-blend/index.html
-_type: Article
+_type: Blurb
 
 ---
 ****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/585817ff-8d64-40b3-bd9b-b2f5d29957e6.jpg)
 
 # Athlete Blend
 
@@ -35,6 +36,7 @@ All Nootropics in the "Athlete" blend are approved by the World Anti-Doping Agen
 * **N-Acetyl L-Tyrosine** is an amino acid that is commonly used to reduce stress, since it is thought to produce noradrenaline and dopamine--two important feel-good hormones \[4\] 
 * A smart athlete knows that a keen mind and a steady hand are needed to pick apart the competition. Add a little laser efficiency to your game with Sulbutiamine, which is thought to provide an extra cognitive boost and fight fatigue \[5\].
 * Loved by the both the athlete and the scholar, Alpha GPC is a powerful natural nootropic commonly used for its cognitive-promoting properties \[6\].
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/babadbb5-46f0-4fc1-b944-7438bbbc583f.jpg)
 
 # Hangover Blend
 
@@ -45,6 +47,7 @@ Headache, nausea, lack of focus and energy-- hangover symptoms are the worst, an
 * Sulbutiamine, a vitamin B1 derivative thought to eliminate fatigue and provide a cognitive boost, might just give you the boost you need to get off the couch and into the world. 
 
 ****
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c29d119b-b434-403c-9c02-b61417fb921c.jpg)
 
 # Lucid Dreaming Blend
 
@@ -57,6 +60,7 @@ One's ability to exert control over his/her dreams can develop over time, and th
 * Before we can dream, we need relax and reach just the right level of deep sleep. The combination of the amino acid L-Theanine and the herb Ashwagandha comes highly recommended for this very purpose, since both are commonly used to promote calmness and prevent anxiety \[1\] \[2\].
 
 * The granddaddy of all nootropics is also an all-time lucid dreaming favorite. Everybody dreams differently, but vivid dreams are widely reported with
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b03239be-cd9d-410e-96be-f5ff22e6d68a.jpg)
 
 # Entrepreneur Blend
 
@@ -65,10 +69,11 @@ Conquering the challenges that entrepreneurs face every day requires resilience,
 * Rhodiola Rosea, a flowering plant found in Eastern Europe and Central Asia, is thought to increase Serotonin levels-- which can positively affect mood, appetite, digestion, sleep, memory and sex drive \[1\]. That makes it the perfect Nootropic for those trying to cope with the stressful hours that entrepreneurs deal with every day.  
 * Known as the "Original Nootropic", Piracetam is one of the more well-rounded Racetams. It's great for those who need to stay cognitively flexible and on top of their game \[2\]. 
 * A Cholinergic is a Racetam's best friend. The synergistic CDP Choline and Piracetam combo is an excellent pair, as both are believed to effectively support cognition \[3\].
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d45b364-72e4-4101-8c06-7d0e9aec88df.png)
 
 # Mood Support
 
-Turn that frown upside down
+_Turn that frown upside down_
 
 There's no understating the power of a good mood: a healthy mood can lead to higher productivity, a stronger sense of well-being, and higher levels of day-to-day satisfaction. Yet, with all of the daily concerns and stressors that we face, it can be difficult to maintain a consistently positive outlook. 
 
