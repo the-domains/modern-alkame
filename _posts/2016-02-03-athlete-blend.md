@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Discover unique blends created by our team of Neuroscientists. These blends are designed to meet your needs, whether you're looking to take something for school, work or just for general well-being."
-datePublished: '2016-02-04T05:16:23.372Z'
-dateModified: '2016-02-04T05:16:21.377Z'
+description: ''
+datePublished: '2016-02-04T05:19:08.018Z'
+dateModified: '2016-02-04T05:19:05.706Z'
 title: Hand Crafted Blends
 author: []
 sourcePath: _posts/2016-02-03-athlete-blend.md
