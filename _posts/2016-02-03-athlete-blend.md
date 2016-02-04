@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Discover unique blends created by our team of Neuroscientists. These blends are designed to meet your needs, whether you're looking to take something for school, work or just for general well-being."
-datePublished: '2016-02-04T05:12:04.057Z'
-dateModified: '2016-02-04T05:12:03.914Z'
-title: Athlete Blend
+datePublished: '2016-02-04T05:16:05.367Z'
+dateModified: '2016-02-04T05:16:03.370Z'
+title: Hand Crafted Blends
 author: []
 sourcePath: _posts/2016-02-03-athlete-blend.md
 published: true
@@ -24,7 +24,11 @@ _type: Article
 ---
 ****
 
-# Athlete Blend
+# Hand Crafted Blends
+
+## Discover unique blends created by our team of Neuroscientists. These blends are designed to meet your needs, whether you're looking to take something for school, work or just for general well-being.
+
+## Athlete Blend
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/585817ff-8d64-40b3-bd9b-b2f5d29957e6.jpg)
 
 For athletes to be successful, they need to be at the top of their game both mentally and physically. Unfortunately, most of the supplements and products out there focus solely on the physical aspect-- claiming to help with muscle recovery, speed, etc.-- but the mental is just as important: reaction time, stamina, vigilance, focus, motivation and many other cognitive functions are essential to any top athlete.The Nootropics in our athlete blend have been shown to support both the mental and the physical aspects of athletic health, promoting optimum performance 100% of the time. So no matter your level of competition, the "Athlete" blend has been catered to you.
@@ -37,7 +41,7 @@ All Nootropics in the "Athlete" blend are approved by the World Anti-Doping Agen
 * A smart athlete knows that a keen mind and a steady hand are needed to pick apart the competition. Add a little laser efficiency to your game with Sulbutiamine, which is thought to provide an extra cognitive boost and fight fatigue \[5\].
 * Loved by the both the athlete and the scholar, Alpha GPC is a powerful natural nootropic commonly used for its cognitive-promoting properties \[6\].
 
-# Hangover Blend
+## Hangover Blend
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/babadbb5-46f0-4fc1-b944-7438bbbc583f.jpg)
 
 Headache, nausea, lack of focus and energy-- hangover symptoms are the worst, and sometimes carbs and gallons of water just aren't enough to make them go away. Our hangover blend contains nootropics that are commonly used to address all of these problems, bringing you back up to speed so that you can still make that meeting, show up to class, or hit the gym.
@@ -48,7 +52,7 @@ Headache, nausea, lack of focus and energy-- hangover symptoms are the worst, an
 
 ****
 
-# Lucid Dreaming Blend
+## Lucid Dreaming Blend
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c29d119b-b434-403c-9c02-b61417fb921c.jpg)
 
 Imagine the best dream you've ever had. Now imagine the ability to control it.
@@ -61,7 +65,7 @@ One's ability to exert control over his/her dreams can develop over time, and th
 
 * The granddaddy of all nootropics is also an all-time lucid dreaming favorite. Everybody dreams differently, but vivid dreams are widely reported with
 
-# Entrepreneur Blend
+## Entrepreneur Blend
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b03239be-cd9d-410e-96be-f5ff22e6d68a.jpg)
 
 Conquering the challenges that entrepreneurs face every day requires resilience, focus, high energy, adaptability, and strong reasoning skills. The Nootropics in the "Entrepreneur Blend" are widely used to support these cognitive functions, giving an extra edge to the ambitious entrepreneur. 
@@ -70,7 +74,7 @@ Conquering the challenges that entrepreneurs face every day requires resilience,
 * Known as the "Original Nootropic", Piracetam is one of the more well-rounded Racetams. It's great for those who need to stay cognitively flexible and on top of their game \[2\]. 
 * A Cholinergic is a Racetam's best friend. The synergistic CDP Choline and Piracetam combo is an excellent pair, as both are believed to effectively support cognition \[3\].
 
-# Mood Support
+## Mood Support Blend
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d45b364-72e4-4101-8c06-7d0e9aec88df.png)
 
 _Turn that frown upside down_
