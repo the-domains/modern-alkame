@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Handcrafted Nootropic Blends
-datePublished: '2016-02-04T05:03:21.349Z'
-dateModified: '2016-02-04T05:03:14.576Z'
-title: 'Athlete Blend '
+datePublished: '2016-02-04T05:06:57.844Z'
+dateModified: '2016-02-04T05:06:54.675Z'
+title: Athlete Blend
 author: []
 sourcePath: _posts/2016-02-03-athlete-blend.md
 published: true
