@@ -4,8 +4,15 @@
         <description><![CDATA[Modern AlkaMe]]></description>
         <link>https://thegrid.ai/modern-alkame/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 05:04:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Feb 2016 05:08:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/modern-alkame/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Athlete Blend]]></title>
+            <description><![CDATA[<article><h1>Athlete Blend</h1><p></p></article>]]></description>
+            <link>https://thegrid.ai/modern-alkame/athlete-blend/index.html</link>
+            <guid isPermaLink="false">2ed44fa8-b1b1-46cf-b73a-8e6ae617ddf3</guid>
+            <pubDate>Thu, 04 Feb 2016 05:07:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Periodic Table of Nootropics]]></title>
             <description><![CDATA[<article><h1>The Periodic Table of Nootropics</h1><h2>Periodic Table of Nootropics</h2><p>With so many products out there claiming to optimize your health and mental function, it can be difficult to determine which ones will actually be effective and suit your individual needs. At Modern AlkaMe, we eliminate the guesswork, saving you time, money and confusion.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b8e3dcfa15d40c7b28aeee559612778ff26fcb05.png"></article>]]></description>
@@ -25,7 +32,7 @@
             <description><![CDATA[<article><h1>Hand-Crafted Blends</h1><p>Discover unique blends created by our team of Neuroscientists. These blends are designed to meet your needs, whether you're looking to take something for school, work or just for general well-being.</p></article>]]></description>
             <link>https://thegrid.ai/modern-alkame/hand-crafted-blends/index.html</link>
             <guid isPermaLink="false">99afa508-b9aa-46a1-b010-aef2c4e2ed04</guid>
-            <pubDate>Wed, 03 Feb 2016 12:24:24 GMT</pubDate>
+            <pubDate>Thu, 04 Feb 2016 05:08:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
