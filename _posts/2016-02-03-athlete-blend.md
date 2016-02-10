@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-04T05:19:08.018Z'
-dateModified: '2016-02-04T05:19:05.706Z'
+datePublished: '2016-02-10T16:11:50.994Z'
+dateModified: '2016-02-10T16:11:49.610Z'
 title: Hand Crafted Blends
 author: []
 sourcePath: _posts/2016-02-03-athlete-blend.md
