@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T23:59:10.948Z'
-dateModified: '2016-03-06T23:58:48.378Z'
+datePublished: '2016-03-06T23:59:43.593Z'
+dateModified: '2016-03-06T23:59:15.319Z'
 title: New Blends
 author: []
+sourcePath: _posts/2016-03-06-new-blends.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-06-new-blends.md
-published: true
 url: new-blends/index.html
 _type: Article
 
