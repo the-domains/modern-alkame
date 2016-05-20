@@ -3,25 +3,23 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-06T23:59:43.593Z'
-dateModified: '2016-03-06T23:59:15.319Z'
+description: 'Discover our newest blends and see which ones are the best for you to start with. '
+datePublished: '2016-05-20T21:41:03.971Z'
+dateModified: '2016-05-20T21:41:03.514Z'
 title: New Blends
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-03-06-new-blends.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: false
 url: new-blends/index.html
 _type: Article
 
 ---
 # New Blends
+![Discover New Blends](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b67678c-a182-49f3-88f6-252ae855648a.jpg)
 
-Discover our newest blends and see which ones are the best for you to start with. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ade93381-b0a0-40dd-87c6-bea979b89cfe.png)
+Discover our newest blends and see which ones are the best for you to start with.
