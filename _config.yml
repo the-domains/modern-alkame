@@ -1,41 +1,41 @@
-name: Modern AlkaMe
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.48011
 title: Modern AlkaMe
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.5343716
+  brandStrength: 0.4860365
+  rhythmicContrast: 0.5
   brandColors:
     - '#00bcd4'
     - '#2196f3'
     - '#424242'
     - '#e91e63'
     - '#1f97f3'
-  brandStrength: 0.4860365
   lightness: 0.75
-  saturation: 0.5343716
-  rhythmicContrast: 0.5
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Modern AlkaMe
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.48011
+layout_spectrum: 0.6557465
