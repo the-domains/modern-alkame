@@ -4,25 +4,21 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-04T05:04:49.117Z'
-dateModified: '2016-02-04T05:04:40.020Z'
+description: 'Your contribution matters. '
+datePublished: '2016-05-25T07:27:36.357Z'
+dateModified: '2016-05-25T07:27:02.941Z'
 title: Our Mission
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 sourcePath: _posts/2016-02-04-our-mission.md
-published: true
+authors: []
+publisher: null
+starred: false
 _type: Blurb
 
 ---
 # Our Mission
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/194df4e0-0f4c-4e08-a18d-1a5aeaa12d88.jpg)
 
 ## CREATIVE MINDS AIMING TO IMPROVE THE BRAIN
 
