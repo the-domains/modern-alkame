@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Modern AlkaMe]]></title>
         <description><![CDATA[Modern AlkaMe]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/modern-alkame/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 07:31:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 25 May 2016 07:31:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/modern-alkame/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The Starter Kit </p>]]></description>
-            <link>undefinedthe-starter-kit/index.html</link>
+            <link>https://thegrid.ai/modern-alkame/the-starter-kit/index.html</link>
             <guid isPermaLink="false">51d3884f-2ce6-4d02-8350-d205449c2f00</guid>
-            <pubDate>Wed, 25 May 2016 07:30:52 GMT</pubDate>
+            <pubDate>Wed, 25 May 2016 07:31:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
