@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Modern AlkaMe]]></title>
+        <description><![CDATA[Modern AlkaMe]]></description>
+        <link>https://thegrid.ai/modern-alkame/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 25 May 2016 07:31:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/modern-alkame/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The Starter Kit </p>]]></description>
+            <link>https://thegrid.ai/modern-alkame/the-starter-kit/index.html</link>
+            <guid isPermaLink="false">51d3884f-2ce6-4d02-8350-d205449c2f00</guid>
+            <pubDate>Wed, 25 May 2016 07:31:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
