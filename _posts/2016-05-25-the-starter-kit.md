@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'The Starter Kit '
-datePublished: '2016-05-25T07:31:04.803Z'
-dateModified: '2016-05-25T07:31:01.754Z'
+datePublished: '2016-05-25T07:31:22.546Z'
+dateModified: '2016-05-25T07:31:08.484Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-25-the-starter-kit.md
