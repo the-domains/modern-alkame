@@ -4,8 +4,15 @@
         <description><![CDATA[Modern AlkaMe]]></description>
         <link>https://thegrid.ai/modern-alkame/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 May 2016 02:25:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2016 02:25:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/modern-alkame/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Starter Kit ]]></title>
+            <description><![CDATA[<article><h1>The Starter Kit </h1><p>With so many products out there falsely claiming to optimize your health and mental function, it can be difficult to determine which ones will actually be effective and suit your individual needs. At Modern AlkaMe, we help you eliminate the guesswork by providing you with the only answer that matters; your own data.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a4a61bf71490301628b7482c0616f3650bd6952.png"></article>]]></description>
+            <link>https://thegrid.ai/modern-alkame/the-starter-kit/index.html</link>
+            <guid isPermaLink="false">51d3884f-2ce6-4d02-8350-d205449c2f00</guid>
+            <pubDate>Sat, 28 May 2016 02:25:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Survey]]></title>
             <description><![CDATA[<article><h1>The Survey</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec16da67081c8d1191afde5089b348924ae48d28.png"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/modern-alkame/the-steps/index.html</link>
             <guid isPermaLink="false">a7117462-b675-4663-8860-a0038a363085</guid>
             <pubDate>Sat, 28 May 2016 02:25:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Starter Kit ]]></title>
-            <description><![CDATA[<article><h1>The Starter Kit </h1><p>With so many products out there falsely claiming to optimize your health and mental function, it can be difficult to determine which ones will actually be effective and suit your individual needs. At Modern AlkaMe, we help you eliminate the guesswork by providing you with the only answer that matters; your own data.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a4a61bf71490301628b7482c0616f3650bd6952.png"></article>]]></description>
-            <link>https://thegrid.ai/modern-alkame/the-starter-kit/index.html</link>
-            <guid isPermaLink="false">51d3884f-2ce6-4d02-8350-d205449c2f00</guid>
-            <pubDate>Wed, 25 May 2016 07:33:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
