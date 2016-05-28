@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'With so many products out there falsely claiming to optimize your health and mental function, it can be difficult to determine which ones will actually be effective and suit your individual needs. At Modern AlkaMe, we help you eliminate the guesswork by providing you with the only answer that matters; your own data.'
-datePublished: '2016-05-28T02:25:40.752Z'
-dateModified: '2016-05-28T02:25:40.433Z'
+datePublished: '2016-05-28T02:26:47.406Z'
+dateModified: '2016-05-28T02:26:38.656Z'
 title: 'The Starter Kit '
 author: []
 sourcePath: _posts/2016-05-25-the-starter-kit.md
