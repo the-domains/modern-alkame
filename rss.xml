@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Modern AlkaMe]]></title>
+        <description><![CDATA[Modern AlkaMe]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 28 May 2016 23:32:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Our Offer]]></title>
+            <description><![CDATA[<article><h1>Our Offer</h1><p>Our quick assessment will help us understand you and your goals, giving us the information that we need to make accurate suggestions just for you.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a64ed060-f006-482e-9d04-cd32657437f3.png"></article>]]></description>
+            <link>undefinedour-offer/index.html</link>
+            <guid isPermaLink="false">af90278b-643b-4e14-9764-55efb10e6c73</guid>
+            <pubDate>Sat, 28 May 2016 23:32:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
