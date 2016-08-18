@@ -23,19 +23,19 @@ color:
     - '#5E727D'
     - '#738A99'
   rhythmicContrast: 0.5
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: Modern AlkaMe
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.4123134
+typography_spectrum: 0.4113806
 layout_spectrum: 0.2999067
