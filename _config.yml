@@ -30,11 +30,11 @@ navigation:
   - name: Nootropics
     id: 18b15d52-fda3-46a1-9a98-f2a1eabf8c1d
     type: content
-  - name: About Us
-    id: dba34c46-4f4d-4b02-90fb-10121399436b
-    type: content
   - name: The Starter Kit
     id: 30df7bf9-5fae-4b52-9555-2bda0f7472ba
+    type: content
+  - name: About Us
+    id: dba34c46-4f4d-4b02-90fb-10121399436b
     type: content
   - name: Stack Builder
     id: 593143bf-f99a-4883-ac2a-2a7bd4a8636c
