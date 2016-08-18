@@ -1,5 +1,30 @@
-title: Modern AlkaMe
-purpose: []
+typography_spectrum: 0.4113806
+color:
+  saturation: 0.7574627
+  brandStrength: 0.5107276
+  lightness: 0.8465485
+  brandColors:
+    - '#0F1217'
+    - '#1F262C'
+    - '#343E47'
+    - '#5E727D'
+    - '#738A99'
+  rhythmicContrast: 0.65625
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9109142
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Modern AlkaMe
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +37,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.7574627
-  brandStrength: 0.5107276
-  lightness: 0.8465485
-  brandColors:
-    - '#0F1217'
-    - '#1F262C'
-    - '#343E47'
-    - '#5E727D'
-    - '#738A99'
-  rhythmicContrast: 0.65625
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Modern AlkaMe
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.4113806
-layout_spectrum: 0.9109142
+title: Modern AlkaMe
+description: Next Generation Cognitive Supplements
+purpose: []
