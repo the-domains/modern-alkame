@@ -13,26 +13,26 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.4986008
+  saturation: 0.7574627
   brandStrength: 0.5107276
-  lightness: 0.5004664
+  lightness: 0.8465485
   brandColors:
     - '#0F1217'
     - '#1F262C'
     - '#343E47'
     - '#5E727D'
     - '#738A99'
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.65625
 cta:
   bucket: null
   version: null
   domain: null
-favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
 name: Modern AlkaMe
+favicon: null
 opengraph:
   image: null
   type: null
