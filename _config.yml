@@ -27,15 +27,15 @@ cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
 name: Modern AlkaMe
-favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.4113806
-layout_spectrum: 0.2999067
+layout_spectrum: 0.9109142
