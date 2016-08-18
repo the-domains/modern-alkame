@@ -1,17 +1,15 @@
 ---
 title: Stack Builder
-datePublished: '2016-08-18T07:19:24.615Z'
-dateModified: '2016-08-18T07:18:17.830Z'
+datePublished: '2016-08-18T22:59:12.922Z'
+dateModified: '2016-08-18T22:59:12.601Z'
 author: []
-isBasedOnUrl: 'https://www.modernalkame.com/stack-builder'
 description: Receive a custom Nootropic stack designed to meet your needs.
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-18-stack-builder.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: stack-builder/index.html
 _type: MediaObject
 
 ---
