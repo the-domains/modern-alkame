@@ -28,6 +28,9 @@ navigation:
   - name: About Us
     id: dba34c46-4f4d-4b02-90fb-10121399436b
     type: content
+  - name: The Starter Kit
+    id: 30df7bf9-5fae-4b52-9555-2bda0f7472ba
+    type: content
 favicon: null
 collections:
   - index:
