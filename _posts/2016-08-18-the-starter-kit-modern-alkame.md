@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-18T23:32:24.400Z'
+datePublished: '2016-08-18T23:37:47.225Z'
 sourcePath: _posts/2016-08-18-the-starter-kit-modern-alkame.md
 inFeed: true
 hasPage: true
@@ -18,7 +18,7 @@ metadata:
     publisher: {}
     description: ''
   dateModified: '2016-08-18T23:18:12.300Z'
-dateModified: '2016-08-18T23:32:23.936Z'
+dateModified: '2016-08-18T23:37:46.914Z'
 title: The Starter Kit
 id: 770ddb55-4bc8-4b00-bcd8-ef5b4b279ccb
 publisher: {}
