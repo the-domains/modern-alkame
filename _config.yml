@@ -19,6 +19,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b51fc0b7-346b-485f-9460-c6d2057f6be3.png
 name: Modern AlkaMe
 cta:
   bucket: null
@@ -37,7 +39,8 @@ navigation:
   - name: Contact Us
     url: 'https://www.modernalkame.com/contact-us'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/61723c9b-c169-4956-83d0-e6626c360718.png
 collections:
   - index:
       path: /
@@ -50,6 +53,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Modern AlkaMe
+title: Next Generation Cognitive Supplements
 description: Next Generation Cognitive Supplements
 purpose: []
