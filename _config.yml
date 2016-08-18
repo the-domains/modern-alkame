@@ -34,6 +34,9 @@ navigation:
   - name: Stack Builder
     id: 593143bf-f99a-4883-ac2a-2a7bd4a8636c
     type: content
+  - name: Contact Us
+    url: 'https://www.modernalkame.com/contact-us'
+    type: external
 favicon: null
 collections:
   - index:
