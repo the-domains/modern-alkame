@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Modern AlkaMe]]></title>
         <description><![CDATA[Modern AlkaMe]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/modern-alkame/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 07:19:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 07:19:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/modern-alkame/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Stack Builder]]></title>
+            <description><![CDATA[<article><h1>Stack Builder</h1><p>Receive a custom Nootropic stack designed to meet your needs.</p></article>]]></description>
+            <link>https://www.modernalkame.com/stack-builder</link>
+            <guid isPermaLink="false">593143bf-f99a-4883-ac2a-2a7bd4a8636c</guid>
+            <pubDate>Thu, 18 Aug 2016 07:19:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Periodic Table of Nootropics]]></title>
             <description><![CDATA[<article><h1>Periodic Table of Nootropics</h1></article>]]></description>
