@@ -1,23 +1,36 @@
 ---
-dateModified: '2016-08-18T07:57:08.696Z'
+datePublished: '2016-08-18T23:33:58.048Z'
+inFeed: true
 author: []
 via: {}
+metadata:
+  id: 2d3a66f9-cde5-463c-9a1f-62bb5d8dbc4a
+  metadata:
+    datePublished: '2016-08-18T07:57:39.593Z'
+    sourcePath: _posts/2016-08-18-periodic-table-of-nootropics.md
+    isBasedOnUrl: 'https://www.modernalkame.com/periodic-table-of-nootropics'
+    author: []
+    via: {}
+    dateModified: '2016-08-18T07:57:39.593Z'
+    title: The Starterkit Mood Tracker
+    publisher: {}
+    description: 'Record your results over time while taking different stacks '
+  dateModified: '2016-08-18T23:18:12.300Z'
+dateModified: '2016-08-18T23:33:57.503Z'
 title: The Starterkit Mood Tracker
-isBasedOnUrl: 'https://www.modernalkame.com/periodic-table-of-nootropics'
+id: 2d3a66f9-cde5-463c-9a1f-62bb5d8dbc4a
 publisher: {}
-description: 'Record your results over time while taking different stacks '
-sourcePath: _posts/2016-08-18-periodic-table-of-nootropics.md
-datePublished: '2016-08-18T07:57:39.593Z'
+description: 'Learn how the starter kit works today! '
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+sourcePath: _posts/2016-08-18-periodic-table-of-nootropics.md
+_type: Blurb
 
 ---
-![Record your results over time while taking different stacks ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4caa9fe-a1a2-4b80-a159-846a40b96974.jpg)
+![The Starter Kit Quiz ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4caa9fe-a1a2-4b80-a159-846a40b96974.jpg)
 
-<article style=""><h1>Periodic Table of Nootropics</h1><p>Discover the work that went into it's development </p></article>
+Learn how the starter kit works today! 
+> 
+> 
 
 > 
 
