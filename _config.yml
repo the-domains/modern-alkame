@@ -27,6 +27,9 @@ cta:
   version: null
   domain: null
 navigation:
+  - name: Nootropics
+    id: 18b15d52-fda3-46a1-9a98-f2a1eabf8c1d
+    type: content
   - name: About Us
     id: dba34c46-4f4d-4b02-90fb-10121399436b
     type: content
@@ -39,9 +42,6 @@ navigation:
   - name: Contact Us
     url: 'https://www.modernalkame.com/contact-us'
     type: external
-  - name: Nootropics
-    id: 18b15d52-fda3-46a1-9a98-f2a1eabf8c1d
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/61723c9b-c169-4956-83d0-e6626c360718.png
 collections:
