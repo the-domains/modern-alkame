@@ -1,6 +1,8 @@
 ---
-datePublished: '2016-08-18T23:33:58.048Z'
+datePublished: '2016-08-19T20:32:15.297Z'
+sourcePath: _posts/2016-08-18-periodic-table-of-nootropics.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
 metadata:
@@ -16,20 +18,20 @@ metadata:
     publisher: {}
     description: 'Record your results over time while taking different stacks '
   dateModified: '2016-08-18T23:18:12.300Z'
-dateModified: '2016-08-18T23:33:57.503Z'
+dateModified: '2016-08-19T20:32:14.531Z'
 title: The Starterkit Mood Tracker
 id: 2d3a66f9-cde5-463c-9a1f-62bb5d8dbc4a
 publisher: {}
-description: 'Learn how the starter kit works today! '
+description: Learn how the starter kit works today!
 starred: false
-sourcePath: _posts/2016-08-18-periodic-table-of-nootropics.md
-_type: Blurb
+url: the-starterkit-mood-tracker/index.html
+_type: Article
 
 ---
 ![The Starter Kit Quiz ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4caa9fe-a1a2-4b80-a159-846a40b96974.jpg)
 
-Learn how the starter kit works today! 
-> 
+Learn how the starter kit works today!
+
 > 
 
 > 
