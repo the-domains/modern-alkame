@@ -14,27 +14,16 @@ collections:
       path: '/:title/'
 description: Next Generation Cognitive Supplements
 color:
-  saturation: 0.2120647632982582
+  saturation: 0.2120648
   brandStrength: 0.1142263845540583
-  rhythmicContrast: 0.4062536593992263
+  lightness: 0.811493
   brandColors:
     - '#000000'
     - '#333333'
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
-  lightness: 0.434959570877254
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Modern AlkaMe
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/61723c9b-c169-4956-83d0-e6626c360718.png
+  rhythmicContrast: 0.4062537
 navigation:
   - name: Nootropics
     id: 18b15d52-fda3-46a1-9a98-f2a1eabf8c1d
@@ -51,6 +40,17 @@ navigation:
   - name: Contact Us
     url: 'https://www.modernalkame.com/contact-us'
     type: external
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/61723c9b-c169-4956-83d0-e6626c360718.png
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: Modern AlkaMe
 opengraph:
   image: null
   type: null
