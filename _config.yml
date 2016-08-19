@@ -1,31 +1,40 @@
-typography_spectrum: 0.6976664094254375
+title: Modern AlkaMe
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+description: Next Generation Cognitive Supplements
 color:
-  saturation: 0.21206476329825819
-  brandStrength: 0.11422638455405831
-  lightness: 0.434959570877254
+  saturation: 0.2120647632982582
+  brandStrength: 0.1142263845540583
+  rhythmicContrast: 0.4062536593992263
   brandColors:
     - '#000000'
     - '#333333'
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
-  rhythmicContrast: 0.4062536593992263
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.9522780948318541
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b51fc0b7-346b-485f-9460-c6d2057f6be3.png
-name: Modern AlkaMe
+  lightness: 0.434959570877254
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Modern AlkaMe
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/61723c9b-c169-4956-83d0-e6626c360718.png
 navigation:
   - name: Nootropics
     id: 18b15d52-fda3-46a1-9a98-f2a1eabf8c1d
@@ -42,20 +51,11 @@ navigation:
   - name: Contact Us
     url: 'https://www.modernalkame.com/contact-us'
     type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/61723c9b-c169-4956-83d0-e6626c360718.png
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: Modern AlkaMe
-description: Next Generation Cognitive Supplements
-purpose: []
+opengraph:
+  image: null
+  type: null
+  appId: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b51fc0b7-346b-485f-9460-c6d2057f6be3.png
+typography_spectrum: 0.6976664094254375
+layout_spectrum: 0.5354457
