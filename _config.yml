@@ -42,6 +42,9 @@ navigation:
   - name: Contact Us
     url: 'https://www.modernalkame.com/contact-us'
     type: external
+  - name: 'Learn More '
+    id: fc78b853-e21c-42f8-b570-4829ba03619e
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/61723c9b-c169-4956-83d0-e6626c360718.png
 collections:
