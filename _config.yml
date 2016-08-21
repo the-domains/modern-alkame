@@ -1,31 +1,40 @@
-typography_spectrum: 0.5063617588020861
+title: Modern AlkaMe
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: Next Generation Cognitive Supplements
 color:
-  saturation: 0.45307152275927365
+  saturation: 0.4530715227592736
   brandStrength: 0.4793679981958121
-  lightness: 0.9074039836414158
+  rhythmicContrast: 0.9929302153177559
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-  rhythmicContrast: 0.9929302153177559
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.11311861127614975
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b51fc0b7-346b-485f-9460-c6d2057f6be3.png
-name: Modern AlkaMe
+  lightness: 0.9074039836414158
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Modern AlkaMe
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/61723c9b-c169-4956-83d0-e6626c360718.png
 navigation:
   - name: Nootropics
     id: 18b15d52-fda3-46a1-9a98-f2a1eabf8c1d
@@ -45,20 +54,11 @@ navigation:
   - name: Contact Us
     url: 'https://www.modernalkame.com/contact-us'
     type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/61723c9b-c169-4956-83d0-e6626c360718.png
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-title: Modern AlkaMe
-description: Next Generation Cognitive Supplements
-purpose: []
+opengraph:
+  image: null
+  type: null
+  appId: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b51fc0b7-346b-485f-9460-c6d2057f6be3.png
+typography_spectrum: 0.5063617588020861
+layout_spectrum: 0.1175373
