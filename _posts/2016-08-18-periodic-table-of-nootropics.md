@@ -1,24 +1,11 @@
 ---
-datePublished: '2016-08-19T20:32:15.297Z'
+datePublished: '2016-09-01T05:44:36.878Z'
 sourcePath: _posts/2016-08-18-periodic-table-of-nootropics.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-metadata:
-  id: 2d3a66f9-cde5-463c-9a1f-62bb5d8dbc4a
-  metadata:
-    datePublished: '2016-08-18T07:57:39.593Z'
-    sourcePath: _posts/2016-08-18-periodic-table-of-nootropics.md
-    isBasedOnUrl: 'https://www.modernalkame.com/periodic-table-of-nootropics'
-    author: []
-    via: {}
-    dateModified: '2016-08-18T07:57:39.593Z'
-    title: The Starterkit Mood Tracker
-    publisher: {}
-    description: 'Record your results over time while taking different stacks '
-  dateModified: '2016-08-18T23:18:12.300Z'
-dateModified: '2016-08-19T20:32:14.531Z'
+dateModified: '2016-09-01T05:44:36.413Z'
 title: The Starterkit Mood Tracker
 id: 2d3a66f9-cde5-463c-9a1f-62bb5d8dbc4a
 publisher: {}
